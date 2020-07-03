@@ -1,0 +1,39 @@
+{
+  "name": "nbp_charts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "webpack.config.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "bindings": "^1.5.0",
+    "constants-browserify": "^1.0.0",
+    "copy-descriptor": "^0.1.1",
+    "core-util-is": "^1.0.2",
+    "cyclist": "^1.0.1",
+    "decode-uri-component": "^0.2.0",
+    "domain-browser": "^1.2.0",
+    "emojis-list": "^3.0.0",
+    "esrecurse": "^4.2.1",
+    "estraverse": "^4.3.0",
+    "events": "^3.1.0",
+    "fast-deep-equal": "^3.1.1",
+    "fast-json-stable-stringify": "^2.1.0",
+    "figgy-pudding": "^3.5.2",
+    "file-uri-to-path": "^1.0.0",
+    "for-in": "^1.0.2",
+    "fs.realpath": "^1.0.0",
+    "get-value": "^2.0.6",
+    "graceful-fs": "^4.2.4",
+    "https-browserify": "^1.0.0",
+    "promise-loading-spinner": "^2.0.2",
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "./node_modules/.bin/webpack"
+  },
+  "author": "",
+  "license": "ISC"
+}
