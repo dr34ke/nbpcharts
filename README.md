@@ -1,10 +1,10 @@
 # NBPCharts
 Prosta aplikacja webowa umożliwiająca sprawdzanie zmian w kursach walut. 
 Wykorzystuje:
-- TYPESCRIPT
-- AXIOS
-- CANVAS
-- Publiczne API NBP.
+- __TYPESCRIPT__
+- __AXIOS__
+- __CANVAS__
+- __Publiczne API NBP__
  
 
 ![SCR1](/n1.png)
