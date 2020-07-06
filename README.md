@@ -1,6 +1,9 @@
 # NBPCharts
-Prosta aplikacja webowa umożliwiająca sprawdzanie zmian w kursach walut. \n
-Pisana w języku TYPESCRIPT, wykorzystuje AXIOS oraz CANVAS.
-Dostępna na stronie:
+Prosta aplikacja webowa umożliwiająca sprawdzanie zmian w kursach walut. 
+Wykorzystuje:
+- TYPESCRIPT
+- AXIOS
+- CANVAS
 
-[NBPCharts](http://nbpcharts.herokuapp.com)
+  Dostępna pod adresem: 
+  [NBPCharts](http://nbpcharts.herokuapp.com)
