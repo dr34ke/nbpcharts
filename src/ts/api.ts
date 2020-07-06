@@ -17,7 +17,15 @@ export default async function getRequestedData (requestAddress :string) : Promis
         let loading = document.querySelector(".loading") as HTMLElement;
         loading.style.visibility="visible";
     }
-    return await axios.get("https://cors-anywhere.herokuapp.com/"+requestAddress, {params: {method :"get"}}).then(response=>{
+    return await axios.get("https://cors-anywhere.herokuapp.com/"+requestAddress, {
+        params: {
+            method :"get"
+        },
+        headers: {
+            originWhitelist: [],
+            requireHeader: ['origin', 'x-requested-with'],
+        }
+    }).then(response=>{
         let loading = document.querySelector(".loading") as HTMLElement;
         loading.style.visibility="hidden";
         return response;
