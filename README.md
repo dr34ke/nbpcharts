@@ -5,5 +5,5 @@ Wykorzystuje:
 - AXIOS
 - CANVAS
 
-  Dostępna pod adresem: 
+Dostępna pod adresem: 
   [NBPCharts](http://nbpcharts.herokuapp.com)
