@@ -5,6 +5,10 @@ Wykorzystuje:
 - AXIOS
 - CANVAS
 - Publiczne API NBP.
+ 
+
+![SCR1](/n1.png)
+
 
 Dostępna pod adresem: 
   [NBPCharts](http://nbpcharts.herokuapp.com)
