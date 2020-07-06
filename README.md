@@ -4,6 +4,7 @@ Wykorzystuje:
 - TYPESCRIPT
 - AXIOS
 - CANVAS
+- Publiczne API NBP.
 
 Dostępna pod adresem: 
   [NBPCharts](http://nbpcharts.herokuapp.com)
