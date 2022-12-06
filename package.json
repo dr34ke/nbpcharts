@@ -10,7 +10,7 @@
     "copy-descriptor": "^0.1.1",
     "core-util-is": "^1.0.2",
     "cyclist": "^1.0.1",
-    "decode-uri-component": "^0.2.0",
+    "decode-uri-component": "^0.2.1",
     "domain-browser": "^1.2.0",
     "emojis-list": "^3.0.0",
     "esrecurse": "^4.2.1",
